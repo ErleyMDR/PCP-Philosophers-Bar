@@ -1,6 +1,6 @@
-package PhilosophersBar.problem;
+package PhilosophersBar.src;
 
-import PhilosophersBar.problem.enums.PhilosopherState;
+import PhilosophersBar.src.enums.PhilosopherState;
 
 import java.util.Random;
 

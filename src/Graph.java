@@ -1,4 +1,4 @@
-package PhilosophersBar.problem;
+package PhilosophersBar.src;
 
 import java.util.Arrays;
 import java.util.HashMap;

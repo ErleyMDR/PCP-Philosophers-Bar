@@ -1,4 +1,4 @@
-package PhilosophersBar.problem;
+package PhilosophersBar.src;
 
 public class Bottle {
 
