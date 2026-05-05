@@ -39,4 +39,9 @@ public class Philosopher extends Thread {
         } catch (InterruptedException e) {
         }
     }
+
+    @Override
+    public void run() {
+        super.run();
+    }
 }
