@@ -1,7 +1,7 @@
 package PhilosophersBar.src.enums;
 
 public enum PhilosopherState {
-    BING_CHILLING,
+    IDLE,
     THIRSTY,
     DRINKING
 }
